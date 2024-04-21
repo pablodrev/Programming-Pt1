@@ -1,0 +1,10 @@
+﻿  Lab5.cpp
+  rectangle.cpp
+C:\Users\Pavel\Documents\C++ Lab\Lab5\rectangle.cpp(16,13): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Pavel\Documents\C++ Lab\Lab5\rectangle.cpp(17,13): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Pavel\Documents\C++ Lab\Lab5\rectangle.cpp(46,11): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Pavel\Documents\C++ Lab\Lab5\rectangle.cpp(47,11): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+C:\Users\Pavel\Documents\C++ Lab\Lab5\rectangle.cpp(99): warning C4715: Rectangle::IntersectAxis: значение возвращается не при всех путях выполнения
+C:\Users\Pavel\Documents\C++ Lab\Lab5\Lab5.cpp(95): warning C4715: menu: значение возвращается не при всех путях выполнения
+  Lab5.vcxproj -> C:\Users\Pavel\Documents\C++ Lab\Lab5\x64\Debug\Lab5.exe
